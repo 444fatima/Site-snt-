@@ -1,0 +1,42 @@
+body {
+  font-family: Arial;
+  background-color: #f2f2f2;
+  color: #333;
+  margin: 0;
+}
+
+h1 {
+  text-align: center;
+  color: #2c3e50;
+  font-size: 28px;
+}
+
+nav {
+  background-color: #3498db;
+  padding: 10px;
+  text-align: center;
+}
+
+nav a {
+  color: white;
+  margin: 10px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav a:hover {
+  color: yellow;
+}
+
+img {
+  display: block;
+  margin: 20px auto;
+  width: 300px;
+  border-radius: 10px;
+}
+
+p {
+  text-align: center;
+  margin: 10px;
+  font-size: 16px;
+}
