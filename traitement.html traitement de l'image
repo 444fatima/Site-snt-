@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Traitement d'image</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav>
+  <a href="index.html">Accueil</a>
+  <a href="images.html">Images & Capteur</a>
+  <a href="traitement.html">Traitement</a>
+  <a href="exif.html">EXIF</a>
+</nav>
+
+<h1>Traitement des images</h1>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Photo_editing_example.jpg">
+
+<p>
+Les images numériques peuvent être modifiées automatiquement ou avec des logiciels.
+</p>
+
+<p>
+On peut modifier la luminosité, le contraste ou les couleurs.
+</p>
+
+<p>
+Un traitement d’image agit directement sur les pixels.
+</p>
+
+</body>
+</html>
