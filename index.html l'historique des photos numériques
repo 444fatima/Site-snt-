@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Photographie numérique - Accueil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav>
+  <a href="index.html">Accueil</a>
+  <a href="images.html">Images & Capteur</a>
+  <a href="traitement.html">Traitement</a>
+  <a href="exif.html">EXIF</a>
+</nav>
+
+<h1>Historique de la photographie numérique</h1>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Kodak_camera_1975.jpg">
+
+<p>
+Au siècle dernier, les photos étaient prises avec des pellicules argentiques.
+Aujourd’hui, elles sont remplacées par des capteurs numériques.
+</p>
+
+<p>
+En 1975, Kodak crée le premier appareil photo numérique.
+Aujourd’hui, les images sont stockées sous forme de données informatiques.
+</p>
+
+</body>
+</html>
