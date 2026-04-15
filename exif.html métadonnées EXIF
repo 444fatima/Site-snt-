@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Métadonnées EXIF</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav>
+  <a href="index.html">Accueil</a>
+  <a href="images.html">Images & Capteur</a>
+  <a href="traitement.html">Traitement</a>
+  <a href="exif.html">EXIF</a>
+</nav>
+
+<h1>Métadonnées EXIF</h1>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Exif_data_example.png">
+
+<p>
+Les données EXIF sont des informations cachées dans une image.
+</p>
+
+<p>
+Elles contiennent : date, appareil photo, paramètres de prise de vue et GPS.
+</p>
+
+<p>
+Elles permettent d’analyser une photo et vérifier son origine.
+</p>
+
+</body>
+</html>
